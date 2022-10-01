@@ -24,7 +24,7 @@ const Content = styled.div`
   h1, h2, h3 {
     margin: 0;
   }
-  
+
   p, img {
     margin: 0.5rem 0;
   }
@@ -37,7 +37,7 @@ export const ValeritaFooter = () => {
       <Content>
         ©{year}
         <Heart iconHeight="12" />
-        <a href="mailto:vale.mollea@gmail.com">Consultas por tarjetas virtuales</a>
+        <a href="mailto:vale.mollea@gmail.com">Consultas por las mejores tarjetas virtuales</a>
       </Content>
     </Section>
   );
